@@ -34,6 +34,9 @@ a:active {
 .main {
 	color: #e22828;
 }
+li {
+	padding: 0px 15px 15px 0px;
+}
 ul {
 	list-style-type: none;
 	font-size: 25px;
@@ -50,8 +53,8 @@ ul {
 	padding-right: 40px;
 }
 .fb, .yt {
-	width: 40px;
-	height: 40px;
+	width: 30px;
+	height: 30px;
 	margin-left: 30px;
 	margin-top: 30px;
 }
