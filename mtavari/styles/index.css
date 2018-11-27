@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Ninomtavruli;
+    src: url(Ninomtavruli.ttf);
+}
+body {
+	font-family: Ninomtavruli;
+}
+a:link {
+    text-decoration: none;
+    color: #4286f4;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #4286f4;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#4286f4;
+}
+
+a:active {
+    text-decoration: none;
+    color: #4286f4;
+}
+.logo {
+	width: 150px;
+	height: 75px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+.main {
+	color: #e22828;
+}
+ul {
+	list-style-type: none;
+	font-size: 25px;
+	color: #4286f4;
+}
+.banner {
+	padding-left:30px;
+	width: 95%;
+	display: block;
+}
+.fb {
+	border-right: 2px solid grey;
+	margin-right: 20px;
+	padding-right: 40px;
+}
+.fb, .yt {
+	width: 40px;
+	height: 40px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
